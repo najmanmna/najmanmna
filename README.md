@@ -35,7 +35,3 @@ If you find my work helpful or interesting, you can support me by:
 ## Thank You 🙏
 
 Thanks for visiting my profile! Have a great day! 😊
-
----
-
-Feel free to customize the sections and content according to your preferences and needs. Good luck with your GitHub profile!
